@@ -1,5 +1,5 @@
-# petshop-frontend
+# gwms-frontend-master
 
-## Frontend de um sistema de pet shop
+## Aplicação completa Frontend e Backend sistema de monitoramento de serviços no painel do Grafana
 
-### Preview pode ser visto em https://guilodron.github.io/petshop-frontend/
+### Preview pode ser visto em https://github.com/V-Ctr/gwms-frontend-master
