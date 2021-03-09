@@ -1,2 +1,5 @@
-# gwms-frontend-master
-gwms-frontend-master_Aplicação completa para monitoramento de serviços.
+# petshop-frontend
+
+## Frontend de um sistema de pet shop
+
+### Preview pode ser visto em https://guilodron.github.io/petshop-frontend/
